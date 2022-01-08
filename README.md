@@ -16,4 +16,4 @@ A python machine learning project to predict heart disease. The columns include:
 - Thal	
 - AHD
 
-The dependent variable is AHD. The logistic regression model has overall 78% precision and 77% recall.
+The dependent variable is AHD. The logistic regression model has overall 85% precision and 85% recall.
